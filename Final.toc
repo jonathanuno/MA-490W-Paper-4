@@ -1,0 +1,15 @@
+\select@language {USenglish}
+\contentsline {chapter}{\numberline {1}Summary}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Problem Restatement}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Global Assumptions}{3}{section.2.2}
+\contentsline {chapter}{\numberline {3}What to Eat}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Nutrition}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Calories}{5}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Macronutrients}{6}{subsection.3.1.2}
+\contentsline {subsubsection}{Protein}{7}{table.3.2}
+\contentsline {section}{\numberline {3.2}Fill}{8}{section.3.2}
+\contentsline {chapter}{\numberline {4}A Sample Menu}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}Future Work}{10}{chapter.5}
+\vspace *{\baselineskip }
+\contentsline {chapter}{Bibliography}{10}{chapter.5}
